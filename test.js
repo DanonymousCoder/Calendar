@@ -11,6 +11,9 @@ else if (age >= 10) {
 else if (age === 9) {
     alert("Good girl")
 }
+else if (age < 9) {
+    alert("Stop wasting my time and enter your age")
+}
 else {
     alert('Try again')
 }

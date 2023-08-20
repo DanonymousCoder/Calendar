@@ -10,7 +10,7 @@ else if (age >= 10) {
     alert("You're lying");
     alert('Try again')
 }
-else if (age === 9) {
+else if (age = 9) {
     alert("Good girl");
 }
 else if (age < 9 && age != 9) {

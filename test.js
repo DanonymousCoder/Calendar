@@ -1,4 +1,4 @@
-const userAllowed;
+let userAllowed;
 let age = prompt('How old are you?', ' ');
 
 if (age < 10) {

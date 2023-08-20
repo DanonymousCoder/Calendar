@@ -8,3 +8,6 @@ if (age > 5) {
 else if (age >= 10) {
     alert("You're lying");
 }
+else {
+    alert('Try again')
+}

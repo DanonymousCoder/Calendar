@@ -1,7 +1,7 @@
 let userAllowed;
 let age = prompt('How old are you?', ' ');
 
-if (age > 5) {
+if (age < 5) {
     userAllowed = true;
     alert(`Acces Allowed status: ${userAllowed}`);
 }

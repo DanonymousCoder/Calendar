@@ -7,5 +7,5 @@ if (age < 10) {
 }
 else {
     userAllowed= false;
-    
+    alert(`Acces Allowed status:  ${userAllowed}`)
 }

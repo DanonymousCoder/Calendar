@@ -19,7 +19,7 @@ else if (age < 9 && age != 9) {
 }
 else {
     alert('Try again')
-
+}
 const company = ("What is JavaScript official name", " ");
 if (company = 'ECMAScript') {
     alert('Right');

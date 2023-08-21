@@ -24,3 +24,6 @@ const company = ("What is JavaScript official name", " ");
 if (company = 'ECMAScript') {
     alert('Right');
 }
+else {
+    alert('You don't know? “ECMAScript”')
+}

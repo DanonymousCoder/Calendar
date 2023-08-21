@@ -22,7 +22,7 @@ else {
 }
 let company = prompt("What is JavaScript official name", " ");
 
-if (company = 'ECMAScript') {
+if (company == 'ECMAScript') {
     alert('Right');
 }
 else {

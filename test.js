@@ -19,4 +19,5 @@ else if (age < 9 && age != 9) {
 }
 else {
     alert('Try again')
-}
+
+const company 

@@ -22,5 +22,5 @@ else {
 
 const company = ("What is JavaScript official name", " ");
 if (company = 'ECMAScript') {
-    ad
+    alert('Right');
 }

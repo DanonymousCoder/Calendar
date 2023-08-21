@@ -21,3 +21,4 @@ else {
     alert('Try again')
 
 const company = ("What is JavaScript official name", " ");
+if (company = 'ECMAScript') S

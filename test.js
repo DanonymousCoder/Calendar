@@ -20,11 +20,4 @@ else if (age < 9 && age != 9) {
 else {
     alert('Try again')
 }
-let company = prompt("What is JavaScript official name", " ");
-
-if (company == 'ECMAScript') {
-    alert('Right');
-}
-else {
-    alert('You don\'t know? “ECMAScript”');
-}
+//
